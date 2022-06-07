@@ -1,0 +1,44 @@
+	releasenotes.txt	0
+target
+generated-test-sources
+test-annotations
+	hellopipeline-0.1.jar	2677
+maven-status
+maven-compiler-plugin
+testCompile
+default-testCompile
+	inputFiles.lst	94
+	createdFiles.lst	32
+compile
+default-compile
+	inputFiles.lst	90
+	createdFiles.lst	28
+maven-archiver
+	pom.properties	94
+test-classes
+com
+hellopipeline
+	AppTest.class	481
+generated-sources
+annotations
+classes
+com
+hellopipeline
+	App.class	549
+surefire-reports
+	TEST-com.hellopipeline.AppTest.xml	4835
+	com.hellopipeline.AppTest.txt	299
+	pom.xml	2687
+.vscode
+	settings.json	66
+src
+test
+java
+com
+hellopipeline
+	AppTest.java	289
+main
+java
+com
+hellopipeline
+	App.java	180
